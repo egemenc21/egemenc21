@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![bgCode](https://github.com/egemenc21/egemenc21/assets/112320683/281bb68b-5dd8-4acf-b388-9ac337d26fc1)
+
+
 <!--
 **egemenc21/egemenc21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
