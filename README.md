@@ -2,6 +2,7 @@
 
 Passionate Front-End Developer, dedicated to continuous learning and growth in the ever-evolving field of web development. I follow best practices to build user-friendly, robust web applications. I like to learn the concepts behind the technologies we use nowadays and use open-source applications.
 
+![LinkedIn](https://www.linkedin.com/in/egemenc/)
 
 Languages: 
 
