@@ -1,8 +1,8 @@
-## Hi there 👋
-
 ![bgCode](https://github.com/egemenc21/egemenc21/assets/112320683/281bb68b-5dd8-4acf-b388-9ac337d26fc1)
+Passionate Front-End Developer, dedicated to continuous learning and growth in the ever-evolving field of web development. I follow best practices to build user-friendly, robust web applications. I like to learn the concepts behind the technologies we use nowadays and use open-source applications.
 
 
+Languages: ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 <!--
 **egemenc21/egemenc21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
