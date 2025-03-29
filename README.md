@@ -1,6 +1,6 @@
 ![bgCode](https://github.com/egemenc21/egemenc21/assets/112320683/281bb68b-5dd8-4acf-b388-9ac337d26fc1)
 
-Passionate Software Engineer, dedicated to continuous learning and growth in the ever-evolving field of web development. I follow best practices to build user-friendly, robust web applications. 
+Passionate Software Engineer with 2+ years of experience in building fast, scalable, and user-friendly web applications. Skilled in modern frontend and backend technologies, specializing in JavaScript frameworks. Works closely with cross-functional teams to deliver seamless solutions. Always learning, improving, and sharing knowledge.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egemenc21)
 
